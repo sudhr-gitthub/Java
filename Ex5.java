@@ -31,7 +31,7 @@ void printArea(){
 System.out.println("Area of Triangle:"+(0.5*x*y));
 }
 }
-public class Area{
+public class Ex5{
 public static void main(String[] args){
 while(true){
 Scanner sc=new Scanner(System.in);
